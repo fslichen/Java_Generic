@@ -1,7 +1,7 @@
-package evolution;
+package evolution.example;
 
-import evolution.type.AnotherType;
-import evolution.value.AbstractValue;
+import evolution.example.type.AnotherType;
+import evolution.example.value.AbstractValue;
 
 public class AnotherClass extends AbstractClass<AnotherType> {
 	public <V extends AbstractValue> V anyMethod(V v) {

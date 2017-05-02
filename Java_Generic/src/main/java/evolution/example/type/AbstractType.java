@@ -1,4 +1,4 @@
-package evolution.type;
+package evolution.example.type;
 
 public abstract class AbstractType {
 

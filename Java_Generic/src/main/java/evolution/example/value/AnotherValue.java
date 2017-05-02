@@ -1,4 +1,4 @@
-package evolution.value;
+package evolution.example.value;
 
 public class AnotherValue extends AbstractValue {
 	@Override
