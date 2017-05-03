@@ -1,4 +1,4 @@
-package evolution.bounded.type.parameter;
+package evolution.bounded.type.parameter.genericClass;
 
 public class AnyClass<T extends Number>{
 	private T number;
