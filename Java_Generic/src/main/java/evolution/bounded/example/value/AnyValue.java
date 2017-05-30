@@ -1,6 +1,6 @@
-package evolution.example.value;
+package evolution.bounded.example.value;
 
-public class AnotherValue extends AbstractValue {
+public class AnyValue extends AbstractValue {
 	@Override
 	public <V> V anyMethod() {
 		// TODO Auto-generated method stub

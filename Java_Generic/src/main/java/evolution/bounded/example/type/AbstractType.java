@@ -1,4 +1,4 @@
-package evolution.example.type;
+package evolution.bounded.example.type;
 
 public abstract class AbstractType {
 

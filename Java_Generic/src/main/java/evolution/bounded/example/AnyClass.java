@@ -1,7 +1,7 @@
-package evolution.example;
+package evolution.bounded.example;
 
-import evolution.example.type.AnyType;
-import evolution.example.value.AbstractValue;
+import evolution.bounded.example.type.AnyType;
+import evolution.bounded.example.value.AbstractValue;
 
 public class AnyClass extends AbstractClass<AnyType> {
 	// Once V extends AbstractValue, v can get call the methods of AbstractValue.
